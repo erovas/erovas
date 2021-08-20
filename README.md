@@ -14,6 +14,7 @@ My name is Emanuel R. Vasquez, and I’m software developer.
 ```text
 Java        ███████████████ 75%
 C#          █████████████ 65%
+VB.NET      ████████████ 60%
 JavaScript  ████████████ 60%
 HTML        ██████████ 50%
 CSS         ██████████ 50%
