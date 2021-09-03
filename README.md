@@ -21,6 +21,7 @@ CSS         ██████████ 50%
 MySQL       ███████ 35%
 SQL Server  ███████ 35%
 C++         █████ 25%
+PL/SQL      ████ 20%
 ```
 <!--
 ## My latest projects
