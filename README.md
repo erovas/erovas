@@ -3,11 +3,11 @@
 My name is Emanuel R. Vasquez, and I’m software developer.
 
 - 🔭 I’m currently working on:
-  - Databases with MySQL. 
-  - Backend with Java 8+ and C#.
+  - Databases with MySQL, SQL Server, PL/SQL. 
+  - Backend with Java 8+, C# and VB.NET.
   - Frontend with HTML5, CSS3 and vanilla JavaScript.
 - 🌱 I’m currently learning more and more about full-stack development.
-- 💬 Ask me about Java and JavaScript.
+- 💬 Ask me about Java, C#, VB.NET and JavaScript.
 - 📫 How to reach me: emarovas@gmail.com
 
 📊 **Weekly development breakdown**
