@@ -12,9 +12,9 @@ My name is Emanuel R. Vasquez, and I’m software developer.
 
 📊 **Weekly development breakdown**
 ```text
-Java        ███████████████ 75%
+VB.NET      ██████████████ 70%
+Java        █████████████ 65%
 C#          █████████████ 65%
-VB.NET      ████████████ 60%
 JavaScript  ████████████ 60%
 HTML        ██████████ 50%
 CSS         ██████████ 50%
@@ -26,7 +26,7 @@ PL/SQL      ████ 20%
 <!--
 ## My latest projects
 
-<a href="https://github.com/erovas/ES5customElements.js">
+<a href="https://github.com/erovas/input-range.js">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="ES5customElements.js" />
 </a>
 <a href="https://github.com/WEGFan/Geometry-Dash-Menu-Music-Randomizer">
